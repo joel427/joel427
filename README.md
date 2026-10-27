@@ -10,9 +10,9 @@
 <br/>
 
 ### 👨‍💻 Sobre mí
-- 🔭 Actualmente enfocado en **[tu área o carrera, ej. Redes, Desarrollo Web, Sistemas]**.
+- 🔭 Actualmente enfocado en **[Estudiando Ingenieria en Software: Apasionado en Redes, Desarrollo Web, Ciberseguridad]**.
 - 🛠️ Trabajando en proyectos prácticos y simulaciones.
-- 💬 Pregúntame sobre **[tus temas favoritos, ej. Cisco Packet Tracer, Python, Linux]**.
+- 💬 Pregúntame sobre **[ Cisco Packet Tracer, JavaScript, Linux,]**.
 - ⚡ Interés en automatización y optimización de redes y software.
 
 ---
@@ -20,7 +20,7 @@
 ### 🛠️ Tecnologías y Herramientas
 <div align="center">
   <!-- Puedes agregar o quitar herramientas en la lista después de ?i= -->
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,c,git,github,vscode,docker,cisco,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,linux,c++,git,github,vscode,cisco,html,css,js" />
 </div>
 
 ---
