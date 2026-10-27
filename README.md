@@ -1,6 +1,6 @@
 <!-- BANNER Y SALUDO ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=180&section=header&text=¡Hola,%20soy%20Joel!%20👋&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=180&section=header&text=¡Hola,%20soy%20Joel!%20&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Estudiante+%2F+Desarrollador;Entusiasta+de+Redes+y+Tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
